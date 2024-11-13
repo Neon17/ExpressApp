@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Inception",
+    "description": "A thief who steals corporate secrets through dream-sharing technology is given a chance to erase his criminal record.",
+    "rating": 8.8,
+    "releaseYear": 2010,
+    "releaseDate": "2010-07-16T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 15.99,
+    "genre": ["science", "fiction", "thriller"],
+    "duration": 148
+  },
+  {
+    "name": "The Matrix",
+    "description": "A hacker discovers the world is a simulation and joins a rebellion.",
+    "rating": 8.7,
+    "releaseYear": 1999,
+    "releaseDate": "1999-03-31T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 14.99,
+    "genre": ["action", "science", "fiction"],
+    "duration": 136
+  },
+  {
+    "name": "Interstellar",
+    "description": "A team of explorers travel through a wormhole to ensure humanity's survival.",
+    "rating": 8.6,
+    "releaseYear": 2014,
+    "releaseDate": "2014-11-07T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 16.99,
+    "genre": ["science", "fiction", "adventure"],
+    "duration": 169
+  },
+  {
+    "name": "The Dark Knight",
+    "description": "Batman faces off against the Joker, a criminal mastermind.",
+    "rating": 9.0,
+    "releaseYear": 2008,
+    "releaseDate": "2008-07-18T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 13.99,
+    "genre": ["action", "crime", "thriller"],
+    "duration": 152
+  },
+  {
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "description": "A young hobbit sets out on a journey to destroy a powerful ring.",
+    "rating": 8.8,
+    "releaseYear": 2001,
+    "releaseDate": "2001-12-19T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 17.99,
+    "genre": ["fantasy", "adventure", "drama"],
+    "duration": 178
+  },
+  {
+    "name": "Gladiator",
+    "description": "A betrayed Roman general seeks revenge and fights his way back to honor.",
+    "rating": 8.5,
+    "releaseYear": 2000,
+    "releaseDate": "2000-05-05T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 12.99,
+    "genre": ["action", "drama", "historical"],
+    "duration": 155
+  },
+  {
+    "name": "Pulp Fiction",
+    "description": "The lives of two mob hitmen, a boxer, and others intertwine in a series of crime stories.",
+    "rating": 8.9,
+    "releaseYear": 1994,
+    "releaseDate": "1994-10-14T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 11.99,
+    "genre": ["crime", "drama"],
+    "duration": 154
+  },
+  {
+    "name": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control to his reluctant son.",
+    "rating": 9.2,
+    "releaseYear": 1972,
+    "releaseDate": "1972-03-24T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 14.99,
+    "genre": ["crime", "drama"],
+    "duration": 175
+  },
+  {
+    "name": "Fight Club",
+    "description": "An insomniac office worker and a soap salesman form an underground fight club.",
+    "rating": 8.8,
+    "releaseYear": 1999,
+    "releaseDate": "1999-10-15T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 12.99,
+    "genre": ["drama", "thriller"],
+    "duration": 139
+  },
+  {
+    "name": "The Silence of the Lambs",
+    "description": "A young FBI agent seeks the help of a cunning serial killer.",
+    "rating": 8.6,
+    "releaseYear": 1991,
+    "releaseDate": "1991-02-14T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 12.99,
+    "genre": ["thriller", "crime", "drama"],
+    "duration": 118
+  },
+  {
+    "name": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption.",
+    "rating": 9.3,
+    "releaseYear": 1994,
+    "releaseDate": "1994-09-23T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 14.99,
+    "genre": ["drama", "crime"],
+    "duration": 142
+  },
+  {
+    "name": "Schindler's List",
+    "description": "In Nazi-occupied Poland, a businessman saves over a thousand Jewish refugees.",
+    "rating": 9.0,
+    "releaseYear": 1993,
+    "releaseDate": "1993-12-15T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 13.99,
+    "genre": ["drama", "historical"],
+    "duration": 195
+  },
+  {
+    "name": "Forrest Gump",
+    "description": "The story of a man with low intelligence who inadvertently influences historical events.",
+    "rating": 8.8,
+    "releaseYear": 1994,
+    "releaseDate": "1994-07-06T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 11.99,
+    "genre": ["drama", "romance"],
+    "duration": 142
+  },
+  {
+    "name": "Saving Private Ryan",
+    "description": "During WWII, a group of soldiers is sent to find a paratrooper whose brothers have been killed in action.",
+    "rating": 8.6,
+    "releaseYear": 1998,
+    "releaseDate": "1998-07-24T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 14.99,
+    "genre": ["war", "drama", "action"],
+    "duration": 169
+  },
+  {
+    "name": "The Green Mile",
+    "description": "The lives of guards on Death Row are affected by one of their charges, a black man accused of murder.",
+    "rating": 8.6,
+    "releaseYear": 1999,
+    "releaseDate": "1999-12-10T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 12.99,
+    "genre": ["drama", "crime", "fantasy"],
+    "duration": 189
+  },
+  {
+    "name": "Star Wars: Episode IV - A New Hope",
+    "description": "Luke Skywalker joins forces with a Jedi Knight to save the galaxy from the Empire.",
+    "rating": 8.6,
+    "releaseYear": 1977,
+    "releaseDate": "1977-05-25T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 19.99,
+    "genre": ["science", "fiction", "adventure"],
+    "duration": 121
+  },
+  {
+    "name": "The Avengers",
+    "description": "Earth's mightiest heroes must come together to stop the threat of Loki and his alien army.",
+    "rating": 8.0,
+    "releaseYear": 2012,
+    "releaseDate": "1993-06-11T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 14.99,
+    "genre": ["adventure", "science", "fiction"],
+    "duration": 143
+  },
+  {
+    "name": "Jurassic Park",
+    "description": "During a preview tour, a theme park suffers a major power breakdown, allowing dinosaurs to run amok.",
+    "rating": 8.1,
+    "releaseYear": 1993,
+    "releaseDate": "1993-06-11T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 14.99,
+    "genre": ["adventure", "science", "fiction"],
+    "duration": 122
+  },
+  {
+    "name": "Back to the Future",
+    "description": "A teenager travels back in time and meets his future parents.",
+    "rating": 8.5,
+    "releaseYear": 1985,
+    "releaseDate": "1985-07-03T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 12.99,
+    "genre": ["science", "fiction", "adventure"],
+    "duration": 116
+  },
+  {
+    "name": "Titanic",
+    "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "rating": 7.8,
+    "releaseYear": 1997,
+    "releaseDate": "1997-12-19T00:00:00Z",
+    "created_at": "2021-01-01T00:00:00Z",
+    "price": 13.99,
+    "genre": ["romance", "drama"],
+    "duration": 194
+  }
+]
